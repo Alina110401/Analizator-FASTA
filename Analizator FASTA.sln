@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analizator FASTA", "Analizator FASTA\Analizator FASTA.csproj", "{B59532C8-D94C-4D30-AD78-E33A5234634A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59532C8-D94C-4D30-AD78-E33A5234634A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59532C8-D94C-4D30-AD78-E33A5234634A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59532C8-D94C-4D30-AD78-E33A5234634A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59532C8-D94C-4D30-AD78-E33A5234634A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754D560A-ED3F-420F-9056-3B9C140BF0EA}
+	EndGlobalSection
+EndGlobal
